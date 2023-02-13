@@ -1,4 +1,4 @@
-# Input Form Wave Animation 
+# Sound Board
 
 ![cover](./assets/sounds.jpg)
 
